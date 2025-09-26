@@ -1,0 +1,6 @@
+framework module ZindexAdSdk {
+  umbrella header "ZindexAdSdk.h"
+  
+  export *
+  module * { export * }
+}
