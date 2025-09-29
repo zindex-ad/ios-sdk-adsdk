@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   }
 
   # Framework
-  spec.vendored_frameworks = "ZindexAdSdk.framework"
+  spec.vendored_frameworks = "ZindexAdSdk.xcframework"
 
   # Dependencies
   spec.frameworks = "Foundation", "UIKit", "AdSupport", "AppTrackingTransparency", "StoreKit", "SystemConfiguration", "CoreTelephony", "Security", "WebKit"
