@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>CHANGELOG.md</key>
-		<data>
-		oAOmBcpdVNnAkVDcc2zxrShnsuA=
-		</data>
-		<key>CUSTOMAD_INTERNAL_WEBVIEW.md</key>
-		<data>
-		VWI3fQtRS4UFjqgSM+79itk20QQ=
-		</data>
-		<key>CustomAd.md</key>
-		<data>
-		53yk45vVoCcHQ3aa0Rrg6vm1H5k=
-		</data>
 		<key>Headers/AdSdk.h</key>
 		<data>
 		/dlhLKwhfwle3LAqyNWV3S1bQcg=
@@ -23,10 +11,6 @@
 		<key>Info.plist</key>
 		<data>
 		Yx5C05tUyEFoHeTiBqQvm+Nso50=
-		</data>
-		<key>Listener_README.md</key>
-		<data>
-		spbxXRpgTQCncd/E215MVGDwKT4=
 		</data>
 		<key>Modules/AdSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -80,50 +64,14 @@
 		<data>
 		v2WKUC8cs6jzoSAXc1vXq2ylc3Q=
 		</data>
-		<key>SUMMARY.md</key>
-		<data>
-		P9jnH2wox/0cXXTq5YwoLewhzg8=
-		</data>
-		<key>Webview_README.md</key>
-		<data>
-		dcng0VKblpFZV1GIAGePqVraRo0=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>CHANGELOG.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AtY+Q1iPgKzQ7NZrEftX3EkdlkuTw16qLEKw7gJlZBE=
-			</data>
-		</dict>
-		<key>CUSTOMAD_INTERNAL_WEBVIEW.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SpC0KGv3v6c4pHebEH118+D+uFvBMyF8FoT8o/AbSVQ=
-			</data>
-		</dict>
-		<key>CustomAd.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ROjlmUxOxS4ENMhCE2CcSSQd7z4FkwkzldZxkW/SJ/k=
-			</data>
-		</dict>
 		<key>Headers/AdSdk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			OiN135WXG7l0KeBsm8zRsxl2qWCNKfBYJwyKcARNBVM=
-			</data>
-		</dict>
-		<key>Listener_README.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CWRvoUa33By+MW7ev5N0B81EaA3fnM9jYVLyDwA/nAU=
 			</data>
 		</dict>
 		<key>Modules/AdSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
@@ -215,20 +163,6 @@
 			<key>hash2</key>
 			<data>
 			2U+mFML4C2Q6P5OiJU/WA05cnGhGg9AK4VDHV6AdqAU=
-			</data>
-		</dict>
-		<key>SUMMARY.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VN3YS6JyLXSvii+vUCRa3JdQeriNyXLRySjWs3FOBLg=
-			</data>
-		</dict>
-		<key>Webview_README.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ds/iEBY09Jnkg5bERVcpPxOaU3J2xrABcYvwOjyN5AY=
 			</data>
 		</dict>
 	</dict>
