@@ -1,0 +1,10 @@
+
+# 禁止 Git 保存 macOS 扩展属性
+* -filter
+
+# 对二进制文件使用 binary 处理（不保留元数据）
+*.framework binary
+*.xcframework binary
+*.a binary
+*.dylib binary
+
